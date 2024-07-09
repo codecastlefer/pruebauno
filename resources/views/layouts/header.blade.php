@@ -67,7 +67,7 @@
                                         <span class="path10"></span>
                                     </i>
                                 </span>
-                                <span class="menu-title">Light</span>
+                                <span class="menu-title">Claro</span>
                             </a>
                         </div>
                         <!--end::Menu item-->
@@ -80,7 +80,7 @@
                                         <span class="path2"></span>
                                     </i>
                                 </span>
-                                <span class="menu-title">Dark</span>
+                                <span class="menu-title">Oscuro</span>
                             </a>
                         </div>
                         <!--end::Menu item-->
@@ -95,7 +95,7 @@
                                         <span class="path4"></span>
                                     </i>
                                 </span>
-                                <span class="menu-title">System</span>
+                                <span class="menu-title">Sistema</span>
                             </a>
                         </div>
                         <!--end::Menu item-->
